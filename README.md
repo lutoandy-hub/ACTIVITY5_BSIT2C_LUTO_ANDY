@@ -1,5 +1,6 @@
 Stacks and Queues
-Name: [Lastname, Firstname M.] Course, Year, and Section: [Course - Year and Section]
+Name: LUTO, ANDY F.
+Course, Year, and Section: BSIT-2C
 
 About
 This program shows how stacks and queues work using arrays and linked lists. It also has a parentheses checker and a small print queue program.
